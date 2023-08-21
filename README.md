@@ -1,2 +1,2 @@
-# fails
+# Faiss
 exploring faiss vector store
